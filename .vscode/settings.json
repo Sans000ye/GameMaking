@@ -1,0 +1,24 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "ScreenHeight",
+        "dt",
+        "grounded",
+        "player",
+        "self",
+        "sti",
+        "gameMap",
+        "camera",
+        "cam",
+        "describe",
+        "it",
+        "before_each",
+        "spy",
+        "anim8"
+    ],
+    "Lua.diagnostics.disable": [
+        "deprecated",
+        "redundant-parameter",
+        "undefined-field"
+    ]
+}
